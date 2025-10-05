@@ -1,0 +1,8 @@
+{
+  "name": "ai-news-assistant",
+  "version": "1.0.0",
+  "description": "Free AI News Assistant",
+  "scripts": {
+    "start": "npx serve -s . -l 10000"
+  }
+}
